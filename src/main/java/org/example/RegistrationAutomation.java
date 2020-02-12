@@ -203,7 +203,7 @@ public class  RegistrationAutomation {
 
              sendkey(By.xpath("//*[@id=\"register_postcodeLookup\"]"),"HB5 3AB");
              //CLICK ON REGISTER BUTTON
-           
+
               clickOnElement(By.xpath("\"//*[@id=\\\"registerPanel\\\"]/div/form/div[3]/button"));
 
          }
