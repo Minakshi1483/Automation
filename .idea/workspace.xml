@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5125015-9c0d-4799-a121-1fcf1ff30ffd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebTesT1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Amazon1" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrayconditionconditional" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrayconditionconditional" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegistratinOfWebsites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegistrationAutomation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegistratinOfWebsites.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebTesT1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebTesT1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebTesT1/src/main/java/org/example/WebExercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebTesT1/src/main/java/org/example/WebExercise1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebTesT1/target/classes/org/example/WebExercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebTesT1/target/classes/org/example/WebExercise1.class" afterDir="false" />
