@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5125015-9c0d-4799-a121-1fcf1ff30ffd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebTesT1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Amazon1" beforeDir="false" afterPath="$PROJECT_DIR$/../Amazon1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrayconditionconditional" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrayconditionconditional" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegistratinOfWebsites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegistrationAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegistratinOfWebsites.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTesT1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebTesT1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTesT1/src/main/java/org/example/WebExercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebTesT1/src/main/java/org/example/WebExercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTesT1/target/classes/org/example/WebExercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebTesT1/target/classes/org/example/WebExercise1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../conditionalstatement" beforeDir="false" afterPath="$PROJECT_DIR$/../conditionalstatement" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../homework" beforeDir="false" afterPath="$PROJECT_DIR$/../homework" afterDir="false" />
     </list>
@@ -22,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -48,8 +56,8 @@
       <recent name="C:\Users\hiren\IdeaProjects\RegistrationAutomationHomework\src\test\java\BrowserDrivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RegistratinOfWebsites.RegisterSuccessfullyMockPlus">
-    <configuration name="RegistratinOfWebsites" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RegistrationAutomation.RegisterSuccessfullyMockPlus">
+    <configuration name="RegistrationAutomation.RegisterSuccessfullyAsda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RegistrationAutomationHomework" />
       <extension name="coverage">
         <pattern>
@@ -58,29 +66,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.RegistratinOfWebsites" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegistratinOfWebsites.RegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RegistrationAutomationHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.RegistratinOfWebsites" />
-      <option name="METHOD_NAME" value="RegisterSuccessfully" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RegistrationAutomation" />
+      <option name="METHOD_NAME" value="RegisterSuccessfullyAsda" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegistratinOfWebsites.RegisterSuccessfullyEbay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegistrationAutomation.RegisterSuccessfullyDominos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RegistrationAutomationHomework" />
       <extension name="coverage">
         <pattern>
@@ -89,14 +82,30 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.RegistratinOfWebsites" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RegistrationAutomation" />
+      <option name="METHOD_NAME" value="RegisterSuccessfullyDominos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationAutomation.RegisterSuccessfullyEbay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationAutomationHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RegistrationAutomation" />
       <option name="METHOD_NAME" value="RegisterSuccessfullyEbay" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegistratinOfWebsites.RegisterSuccessfullyMockPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegistrationAutomation.RegisterSuccessfullyMockPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RegistrationAutomationHomework" />
       <extension name="coverage">
         <pattern>
@@ -105,14 +114,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.RegistratinOfWebsites" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RegistrationAutomation" />
       <option name="METHOD_NAME" value="RegisterSuccessfullyMockPlus" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegistratinOfWebsites.RegisterSuccessfullyacado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegistrationAutomation.RegisterSuccessfullyacado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RegistrationAutomationHomework" />
       <extension name="coverage">
         <pattern>
@@ -121,7 +130,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.RegistratinOfWebsites" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RegistrationAutomation" />
       <option name="METHOD_NAME" value="RegisterSuccessfullyacado" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -130,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RegistratinOfWebsites.RegisterSuccessfullyMockPlus" />
-        <item itemvalue="JUnit.RegistratinOfWebsites.RegisterSuccessfullyEbay" />
-        <item itemvalue="JUnit.RegistratinOfWebsites.RegisterSuccessfullyacado" />
-        <item itemvalue="JUnit.RegistratinOfWebsites.RegisterSuccessfully" />
-        <item itemvalue="JUnit.RegistratinOfWebsites" />
+        <item itemvalue="JUnit.RegistrationAutomation.RegisterSuccessfullyMockPlus" />
+        <item itemvalue="JUnit.RegistrationAutomation.RegisterSuccessfullyEbay" />
+        <item itemvalue="JUnit.RegistrationAutomation.RegisterSuccessfullyacado" />
+        <item itemvalue="JUnit.RegistrationAutomation.RegisterSuccessfullyAsda" />
+        <item itemvalue="JUnit.RegistrationAutomation.RegisterSuccessfullyDominos" />
       </list>
     </recent_temporary>
   </component>
@@ -160,29 +169,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="68" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581030830097" />
-    <state width="1222" height="205" key="GridCell.Tab.0.bottom" timestamp="1581028597962">
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom" timestamp="1581547918349">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="205" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581028597962" />
-    <state width="1222" height="205" key="GridCell.Tab.0.center" timestamp="1581028597962">
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581547918349" />
+    <state width="1237" height="208" key="GridCell.Tab.0.center" timestamp="1581547918349">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="205" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581028597962" />
-    <state width="1222" height="205" key="GridCell.Tab.0.left" timestamp="1581028597962">
+    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581547918349" />
+    <state width="1237" height="208" key="GridCell.Tab.0.left" timestamp="1581547918334">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="205" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581028597962" />
-    <state width="1222" height="205" key="GridCell.Tab.0.right" timestamp="1581028597962">
+    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581547918334" />
+    <state width="1237" height="208" key="GridCell.Tab.0.right" timestamp="1581547918349">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="205" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581028597962" />
-    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1580902203014">
+    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581547918349" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1581531977471">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1580902203014" />
-    <state x="297" y="153" key="run.anything.popup" timestamp="1581002445946">
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581531977471" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1581531977471">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581002445946" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1581531977471" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1581531977471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1581531977471" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1581531977471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1581531977471" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1581500085020">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1581500085020" />
+    <state x="91" y="37" key="new project wizard" timestamp="1581370900496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="37" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1581370900496" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1581541110481">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581541110481" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RegistrationAutomationHomework$RegistrationAutomation_RegisterSuccessfullyacado.ic" NAME="RegistrationAutomation.RegisterSuccessfullyacado Coverage Results" MODIFIED="1581523323978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
